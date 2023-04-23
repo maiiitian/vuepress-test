@@ -28,7 +28,7 @@
       console.log(this.$refs.text)
       console.log(this.$refs.school)//Vue组件对象
     }
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><img src="image/image_PADaJ5BIQs.png" alt=""></p>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><img src="@source/frame/vue/image/image_PADaJ5BIQs.png" alt=""></p>
 <p><a href="https://cn.vuejs.org/v2/guide/components-edge-cases.html#%E8%AE%BF%E9%97%AE%E5%AD%90%E7%BB%84%E4%BB%B6%E5%AE%9E%E4%BE%8B%E6%88%96%E5%AD%90%E5%85%83%E7%B4%A0" target="_blank" rel="noopener noreferrer">https://cn.vuejs.org/v2/guide/components-edge-cases.html#访问子组件实例或子元素<ExternalLinkIcon/></a></p>
 <blockquote>
 <p>关于使用？？？？....</p>

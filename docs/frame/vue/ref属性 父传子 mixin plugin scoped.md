@@ -28,7 +28,7 @@
     }
 ```
 
-![](image/image_PADaJ5BIQs.png)
+![](./image/image_PADaJ5BIQs.png)
 
 <https://cn.vuejs.org/v2/guide/components-edge-cases.html#访问子组件实例或子元素>
 
