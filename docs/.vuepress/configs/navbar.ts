@@ -24,7 +24,7 @@ const nav: NavbarConfig = [
         children: [
           {
             text: "vue",
-            link: "/vue",
+            link: "/frame/vue",
           },
           {
             text: "vite",
@@ -52,8 +52,8 @@ const nav: NavbarConfig = [
     ],
   },
   {
-    text: "我的b站",
-    link: "https://space.bilibili.com/27320662",
+    text: "GitHub",
+    link: "https://github.com/maiiitian",
   },
 ];
 export default nav;

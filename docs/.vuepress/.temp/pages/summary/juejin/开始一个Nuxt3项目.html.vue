@@ -7,7 +7,7 @@ npx nuxi init nuxt-app <span class="token comment">#项目名</span>
 <span class="token function">npm</span> run dev
 <span class="token function">pnpm</span> run
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>初始的项目结构</p>
-<p><img src="img/开始一个Nuxt3项目.assets/image-20230226105407627.png" alt="image-20230226105407627"></p>
+<p><img src="@source/summary/juejin/img/开始一个Nuxt3项目.assets/image-20230226105407627.png" alt="image-20230226105407627"></p>
 </div></template>
 
 
