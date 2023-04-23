@@ -1,5 +1,5 @@
 name: docs
-
+# 什么时候触发动作
 on:
   # 每当 push 到 main 分支时触发部署
   push:
@@ -9,6 +9,7 @@ on:
 
 jobs:
   docs:
+    # 镜像
     runs-on: ubuntu-latest
 
     steps:
