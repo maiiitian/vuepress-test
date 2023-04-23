@@ -134,7 +134,7 @@ VM **视图模型(ViewModel)**: Vue实例
 
 Vue原型上所有属性，在Vue模板中都可以直按使用。
 
-![](image/image_Jq4qSGVSZk.png)
+![](./image/image_Jq4qSGVSZk.png)
 
 ## 底层数据代理
 
@@ -191,7 +191,7 @@ Vue原型上所有属性，在Vue模板中都可以直按使用。
 </script>
 ```
 
-![](image/image_2ZILoHFsvS.png)
+![](./image/image_2ZILoHFsvS.png)
 
 ```html
 控制台
