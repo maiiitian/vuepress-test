@@ -45,22 +45,8 @@ export const pagesData = {
   "v-19b44ab4": () => import(/* webpackChunkName: "v-19b44ab4" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/开始一个Nuxt3项目.html.js").then(({ data }) => data),
   // path: /summary/juejin/%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95.html
   "v-5a2aacd2": () => import(/* webpackChunkName: "v-5a2aacd2" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/文章目录.html.js").then(({ data }) => data),
-  // path: /summary/juejin/%E6%96%87%E7%AB%A0%E9%A2%84%E8%A7%88.html
-  "v-d3ae5fd4": () => import(/* webpackChunkName: "v-d3ae5fd4" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/文章预览.html.js").then(({ data }) => data),
-  // path: /summary/juejin/%E6%B1%87%E6%8A%A5%E6%96%87%E6%A1%A3.html
-  "v-13d1bf86": () => import(/* webpackChunkName: "v-13d1bf86" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/汇报文档.html.js").then(({ data }) => data),
-  // path: /summary/juejin/%E9%98%B2%E6%8A%96%E4%B8%8E%E8%8A%82%E6%B5%81.html
-  "v-2ef9f81a": () => import(/* webpackChunkName: "v-2ef9f81a" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/防抖与节流.html.js").then(({ data }) => data),
-  // path: /summary/juejin/%E9%9C%80%E5%A4%84%E7%90%86%E8%BF%9B%E5%BA%A6.html
-  "v-7ced799c": () => import(/* webpackChunkName: "v-7ced799c" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/需处理进度.html.js").then(({ data }) => data),
-  // path: /summary/juejin/%E9%9D%92%E8%AE%AD%E8%90%A52%E6%9C%8820%E5%8F%B7%E6%8F%90%E4%BA%A4%E9%A1%B9%E7%9B%AE.html
-  "v-6a8ed9a7": () => import(/* webpackChunkName: "v-6a8ed9a7" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/青训营2月20号提交项目.html.js").then(({ data }) => data),
-  // path: /summary/juejin/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98.html
-  "v-3eea2381": () => import(/* webpackChunkName: "v-3eea2381" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/项目中遇到的问题.html.js").then(({ data }) => data),
   // path: /summary/juejin/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.html
   "v-20fbd2ec": () => import(/* webpackChunkName: "v-20fbd2ec" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/项目介绍.html.js").then(({ data }) => data),
-  // path: /summary/juejin/%E9%A1%B9%E7%9B%AE%E5%88%9D%E5%A7%8B%E5%8C%96%E5%87%86%E5%A4%87.html
-  "v-6301a198": () => import(/* webpackChunkName: "v-6301a198" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/juejin/项目初始化准备.html.js").then(({ data }) => data),
   // path: /summary/view/
   "v-2e031c28": () => import(/* webpackChunkName: "v-2e031c28" */"F:/code_stu/Vue_mine/vuepress-test/docs/.vuepress/.temp/pages/summary/view/index.html.js").then(({ data }) => data),
   // path: /404.html

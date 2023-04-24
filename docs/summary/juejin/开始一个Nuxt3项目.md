@@ -1,3 +1,7 @@
+---
+title: 开始一个Nuxt3项目
+---
+
 ```shell
 # 安装方式
 npx nuxi init nuxt-app #项目名

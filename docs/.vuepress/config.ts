@@ -1,5 +1,6 @@
 import { defineUserConfig, defaultTheme } from "vuepress";
 import nav from "./configs/navbar";
+import { sidebar } from "./configs/sidebar";
 
 export default defineUserConfig({
   base: "/vuepress-test/",
@@ -8,6 +9,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     // default theme config
     navbar: nav,
+    sidebar: sidebar,
     docsBranch: "master",
   }),
 });

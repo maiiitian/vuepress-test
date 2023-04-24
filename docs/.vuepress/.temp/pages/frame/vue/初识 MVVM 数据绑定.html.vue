@@ -133,7 +133,7 @@
 <p>V <strong>视图(View)</strong> :模板代码</p>
 <p>VM <strong>视图模型(ViewModel)</strong>: Vue实例</p>
 <p>Vue原型上所有属性，在Vue模板中都可以直按使用。</p>
-<p><img src="image/image_Jq4qSGVSZk.png" alt=""></p>
+<p><img src="@source/frame/vue/image/image_Jq4qSGVSZk.png" alt=""></p>
 <h2 id="底层数据代理" tabindex="-1"><a class="header-anchor" href="#底层数据代理" aria-hidden="true">#</a> 底层数据代理</h2>
 <p> 回顾es6的Object.defineProperty</p>
 <p>1.Vue中的数据代理:</p>
@@ -176,7 +176,7 @@
     <span class="token punctuation">}</span><span class="token punctuation">)</span>
     console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>person<span class="token punctuation">)</span>
 </span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">></span></span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><img src="image/image_2ZILoHFsvS.png" alt=""></p>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><img src="@source/frame/vue/image/image_2ZILoHFsvS.png" alt=""></p>
 <div class="language-html line-numbers-mode" data-ext="html"><pre v-pre class="language-html"><code>控制台
 vm.name = "aaa"//触发了setter
 vm._data
